@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7426
     wikipedia: http://fr.wikipedia.org/wiki/Th%C3%A9odore_de_Banville
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17501#Socrate-et-sa-femme
 gutenberg_bookshelf: FR Théâtre
 gutenberg_issued: '2006-01-12'
 gutenberg_type: Text
