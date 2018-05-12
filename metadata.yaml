@@ -1,0 +1,32 @@
+_repo: Socrate-et-sa-femme_17501
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Banville, Théodore Faullain de
+    aliases:
+    - Banville, Théodore de
+    - De Banville, Théodore Faullain
+    - Banville, Theodore Faullain de
+    birthdate: 1823
+    deathdate: 1891
+    gutenberg_agent_id: '7426'
+    url: http://www.gutenberg.org/2009/agents/7426
+    wikipedia: http://fr.wikipedia.org/wiki/Th%C3%A9odore_de_Banville
+description: ''
+gutenberg_bookshelf: FR Théâtre
+gutenberg_issued: '2006-01-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17501'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'French drama (Comedy) -- 19th century'
+title: Socrate et sa femme
+url: http://www.gutenberg.org/ebooks/17501
